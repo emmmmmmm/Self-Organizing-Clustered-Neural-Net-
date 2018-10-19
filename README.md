@@ -1,0 +1,1 @@
+A cluster manager activates/deactivates clusters of cells, so that for a specific input only a specific part of the network will be activated ( and evaluated!)
