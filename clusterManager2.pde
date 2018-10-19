@@ -25,7 +25,7 @@ class ClusterManager {
     db = new float[numClusters];
     Sh = new float[numClusters];
     for(int i=0;i<w.length;i++){
-      w[i]=random(-1,1*0.02f;
+      w[i]=random(-1,1*1.2f);
     }
     //println("c: "+numClusters);
 
